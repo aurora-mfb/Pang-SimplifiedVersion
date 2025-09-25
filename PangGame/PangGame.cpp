@@ -3,7 +3,7 @@
 
 #include <iostream>
 
-#include "lib/tigr.h"
+//#include "lib/tigr.h"
 
 int main()
 {
